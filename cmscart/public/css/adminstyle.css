@@ -1,0 +1,34 @@
+.sorting tr:not(.home) {
+    cursor: pointer;
+}
+
+.ui-state-hightlight {
+    border: 1px dashed #ccc;
+}
+
+#imgPreview {
+    margin: 20px;
+}
+
+#noimage {
+    width: 100px;
+    height: 100px;
+}
+
+ul.gallery {
+    padding: 0;
+}
+
+ul.gallery li:first-child {
+    margin-left: 0;
+}
+
+ul.gallery li {
+    margin: 20px;
+    display: inline-block;
+    list-style: none;
+}
+
+table.alignmiddle td {
+    vertical-align: middle !important;
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>routes/admin_products.js</url>
+            <bookmark id="2">
+                <name/>
+                <line>60</line>
+                <key/>
+            </bookmark>
+            <bookmark id="3">
+                <name/>
+                <line>127</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>194</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/routes/products.js</file>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/routes/admin_categories.js</file>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/config/auth.js</file>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/views/_layouts/header.ejs</file>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/routes/admin_pages.js</file>
+            <file>file:/C:/Users/Voja/Desktop/_/vj/cmscart/routes/admin_products.js</file>
+        </group>
+    </open-files>
+</project-private>
